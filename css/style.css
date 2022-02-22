@@ -1,0 +1,31 @@
+.post {
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid lightseagreen;
+  background-color: beige;
+  border-radius: 20px;
+}
+
+/* Home Work CSS  */
+.comment {
+  margin: 10px;
+  padding: 10px;
+  border: 3px solid skyblue;
+  border-radius: 20px;
+  background-color: cornflowerblue;
+  text-align: center;
+}
+
+.photo {
+  max-width: 200px;
+  max-height: 300px;
+  display: inline-block;
+  border: 5px solid seagreen;
+  overflow: hidden;
+  margin: 10px;
+  padding: 5px;
+}
+.photo a img {
+  width: 100%;
+  height: 100%;
+}
